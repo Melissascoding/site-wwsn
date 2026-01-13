@@ -1,7 +1,7 @@
 # Refonte UX/UI – Site Women in Water Sanitation Network (WWSN)
 
 > Projet de refonte d’un site web international dédié à l’égalité femmes-hommes dans l’accès à l’eau et à l’assainissement.  
-> **Rôle** : Cheffe de projet & UX/UI Designer
+> **Rôle** : Cheffe de projet & Développeuse web
 
 ## Objectif
 Pilotage de la refonte UX/UI d’un site existant : analyse critique, révision des specs, réajustement de l’arborescence et des personas, amélioration de l’accessibilité et de l’ergonomie.
